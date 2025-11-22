@@ -3,6 +3,11 @@
 An interactive **Power BI dashboard** to analyze and track Ecommerce sales performance.  
 This project provides insights into sales, profit, customer behavior, product categories, and payment modes with the help of visually rich and dynamic reports.
 
+![demo](https://github.com/Tanmay1112004/MADHAV-ECOMMERCE-SALES-DASHBOARD/blob/main/MADHAV%20%20ECOMMERCE%20SALES%20DASHBOARD/Screenshots/Screenshot%202025-09-22%20223538.png)
+
+![demo](https://github.com/Tanmay1112004/MADHAV-ECOMMERCE-SALES-DASHBOARD/blob/main/MADHAV%20%20ECOMMERCE%20SALES%20DASHBOARD/Screenshots/Screenshot%202025-09-22%20223841.png)
+
+
 ---
 
 ## 🚀 Project Highlights
