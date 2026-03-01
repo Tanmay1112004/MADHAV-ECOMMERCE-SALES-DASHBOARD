@@ -70,7 +70,7 @@ It helped me gain hands-on experience in **data visualization, analytics, and st
 
 ## 📌 Author
 **Tanmay**  
-📧 [Your Email or LinkedIn if you want to add]  
+📧 [tanmaykshirsagar001@gmail.com]  
 
 ---
 
